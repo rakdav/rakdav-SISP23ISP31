@@ -1,0 +1,13 @@
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\bin\Debug\AppDomainDynamicUnload.exe
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\bin\Debug\AppDomainDynamicUnload.pdb
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\obj\Debug\AppDomainSample.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\obj\Debug\AppDomainSample.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\obj\Debug\AppDomainSample.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.exe
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\obj\Debug\AppDomainDynamicUnload.pdb
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\bin\Debug\TextDrawer.exe
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\bin\Debug\TextWindow.exe
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\bin\Debug\TextDrawer.pdb
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\bin\Debug\TextWindow.pdb
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\AppDomainSample\obj\Debug\AppDomai.4B616240.Up2Date

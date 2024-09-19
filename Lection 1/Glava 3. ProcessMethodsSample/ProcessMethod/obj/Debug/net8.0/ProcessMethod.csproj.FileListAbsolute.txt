@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\bin\Debug\net8.0\ProcessMethod.exe
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\bin\Debug\net8.0\ProcessMethod.deps.json
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\bin\Debug\net8.0\ProcessMethod.runtimeconfig.json
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\bin\Debug\net8.0\ProcessMethod.dll
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\bin\Debug\net8.0\ProcessMethod.pdb
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\obj\Debug\net8.0\ProcessMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\obj\Debug\net8.0\ProcessMethod.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\obj\Debug\net8.0\ProcessMethod.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\obj\Debug\net8.0\ProcessMethod.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\obj\Debug\net8.0\ProcessMethod.dll
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\obj\Debug\net8.0\refint\ProcessMethod.dll
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\obj\Debug\net8.0\ProcessMethod.pdb
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\obj\Debug\net8.0\ProcessMethod.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Sources\Gllava 3. ProcessMethodsSample\ProcessMethod\obj\Debug\net8.0\ref\ProcessMethod.dll

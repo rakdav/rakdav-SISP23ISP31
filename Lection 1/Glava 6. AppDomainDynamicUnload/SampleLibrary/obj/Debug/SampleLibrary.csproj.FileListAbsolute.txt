@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\Sources\Glava 6. AppDomainDynamicUnload\SampleLibrary\bin\Debug\SampleLibrary.dll
+C:\Users\Andrey\source\repos\Sources\Glava 6. AppDomainDynamicUnload\SampleLibrary\bin\Debug\SampleLibrary.pdb
+C:\Users\Andrey\source\repos\Sources\Glava 6. AppDomainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\Sources\Glava 6. AppDomainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Sources\Glava 6. AppDomainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.dll
+C:\Users\Andrey\source\repos\Sources\Glava 6. AppDomainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.pdb

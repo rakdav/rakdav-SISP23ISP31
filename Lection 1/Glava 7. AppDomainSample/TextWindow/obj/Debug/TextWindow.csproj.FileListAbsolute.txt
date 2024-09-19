@@ -1,0 +1,8 @@
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextWindow\bin\Debug\TextWindow.exe
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextWindow\bin\Debug\TextWindow.pdb
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextWindow\obj\Debug\TextWindow.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextWindow\obj\Debug\TextWindow.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextWindow\obj\Debug\TextWindow.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextWindow\obj\Debug\TextWindow.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextWindow\obj\Debug\TextWindow.exe
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextWindow\obj\Debug\TextWindow.pdb

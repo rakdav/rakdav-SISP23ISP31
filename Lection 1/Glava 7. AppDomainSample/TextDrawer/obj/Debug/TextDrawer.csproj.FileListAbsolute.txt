@@ -1,0 +1,8 @@
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextDrawer\bin\Debug\TextDrawer.exe
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextDrawer\bin\Debug\TextDrawer.pdb
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextDrawer\obj\Debug\TextDrawer.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextDrawer\obj\Debug\TextDrawer.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextDrawer\obj\Debug\TextDrawer.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextDrawer\obj\Debug\TextDrawer.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextDrawer\obj\Debug\TextDrawer.exe
+C:\Users\Andrey\source\repos\Sources\Glava 7. AppDomainSample\TextDrawer\obj\Debug\TextDrawer.pdb

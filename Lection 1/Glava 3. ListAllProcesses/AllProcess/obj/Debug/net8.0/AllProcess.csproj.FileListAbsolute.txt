@@ -1,0 +1,28 @@
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\bin\Debug\net8.0\AllProcess.exe
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\bin\Debug\net8.0\AllProcess.deps.json
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\bin\Debug\net8.0\AllProcess.runtimeconfig.json
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\bin\Debug\net8.0\AllProcess.dll
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\bin\Debug\net8.0\AllProcess.pdb
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.dll
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\obj\Debug\net8.0\refint\AllProcess.dll
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.pdb
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Sources\ListAllProcesses\AllProcess\obj\Debug\net8.0\ref\AllProcess.dll
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\bin\Debug\net8.0\AllProcess.exe
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\bin\Debug\net8.0\AllProcess.deps.json
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\bin\Debug\net8.0\AllProcess.runtimeconfig.json
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\bin\Debug\net8.0\AllProcess.dll
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\bin\Debug\net8.0\AllProcess.pdb
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.dll
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\obj\Debug\net8.0\refint\AllProcess.dll
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.pdb
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\obj\Debug\net8.0\AllProcess.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Sources\Glava 3. ListAllProcesses\AllProcess\obj\Debug\net8.0\ref\AllProcess.dll

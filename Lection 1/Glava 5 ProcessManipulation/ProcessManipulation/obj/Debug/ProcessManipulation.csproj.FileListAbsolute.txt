@@ -1,0 +1,8 @@
+C:\Users\Andrey\source\repos\Sources\ProcessManipulation\ProcessManipulation\bin\Debug\ProcessManipulation.exe
+C:\Users\Andrey\source\repos\Sources\ProcessManipulation\ProcessManipulation\bin\Debug\ProcessManipulation.pdb
+C:\Users\Andrey\source\repos\Sources\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\Sources\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.MainWindow.resources
+C:\Users\Andrey\source\repos\Sources\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Sources\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Sources\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.exe
+C:\Users\Andrey\source\repos\Sources\ProcessManipulation\ProcessManipulation\obj\Debug\ProcessManipulation.pdb

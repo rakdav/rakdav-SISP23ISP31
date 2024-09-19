@@ -1,0 +1,9 @@
+C:\Users\Andrey\source\repos\Sources\Glava 2. CalcRunner\CalcRunner\bin\Debug\CalcRunner.exe
+C:\Users\Andrey\source\repos\Sources\Glava 2. CalcRunner\CalcRunner\bin\Debug\CalcRunner.pdb
+C:\Users\Andrey\source\repos\Sources\Glava 2. CalcRunner\CalcRunner\obj\Debug\CalcRunner.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\Sources\Glava 2. CalcRunner\CalcRunner\obj\Debug\CalcRunner.CalcRunner.resources
+C:\Users\Andrey\source\repos\Sources\Glava 2. CalcRunner\CalcRunner\obj\Debug\CalcRunner.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Sources\Glava 2. CalcRunner\CalcRunner\obj\Debug\CalcRunner.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Sources\Glava 2. CalcRunner\CalcRunner\obj\Debug\CalcRunner.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Sources\Glava 2. CalcRunner\CalcRunner\obj\Debug\CalcRunner.exe
+C:\Users\Andrey\source\repos\Sources\Glava 2. CalcRunner\CalcRunner\obj\Debug\CalcRunner.pdb

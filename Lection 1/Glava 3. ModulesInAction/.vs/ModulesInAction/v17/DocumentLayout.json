@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrey\\source\\repos\\Sources\\Glava 3. ModulesInAction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0DF2C-0EE2-46F8-9E44-83043409DB40}|ModulesInActions\\ModulesInActions.csproj|c:\\users\\andrey\\source\\repos\\sources\\glava 3. modulesinaction\\modulesinactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0DF2C-0EE2-46F8-9E44-83043409DB40}|ModulesInActions\\ModulesInActions.csproj|solutionrelative:modulesinactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B4B5DA-CEAB-4426-AC77-74EE2677897D}|SampleLibrary\\SampleLibrary.csproj|c:\\users\\andrey\\source\\repos\\sources\\glava 3. modulesinaction\\samplelibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B4B5DA-CEAB-4426-AC77-74EE2677897D}|SampleLibrary\\SampleLibrary.csproj|solutionrelative:samplelibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\Sources\\Glava 3. ModulesInAction\\ModulesInActions\\Program.cs",
+              "RelativeDocumentMoniker": "ModulesInActions\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\Sources\\Glava 3. ModulesInAction\\ModulesInActions\\Program.cs",
+              "RelativeToolTip": "ModulesInActions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:22:03.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Andrey\\source\\repos\\Sources\\Glava 3. ModulesInAction\\SampleLibrary\\Person.cs",
+              "RelativeDocumentMoniker": "SampleLibrary\\Person.cs",
+              "ToolTip": "C:\\Users\\Andrey\\source\\repos\\Sources\\Glava 3. ModulesInAction\\SampleLibrary\\Person.cs",
+              "RelativeToolTip": "SampleLibrary\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:20:42.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
