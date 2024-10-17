@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\bin\Debug\net8.0\BackGroundWorkerProject.exe
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\bin\Debug\net8.0\BackGroundWorkerProject.deps.json
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\bin\Debug\net8.0\BackGroundWorkerProject.runtimeconfig.json
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\bin\Debug\net8.0\BackGroundWorkerProject.dll
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\bin\Debug\net8.0\BackGroundWorkerProject.pdb
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\obj\Debug\net8.0\BackGroundWorkerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\obj\Debug\net8.0\BackGroundWorkerProject.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\obj\Debug\net8.0\BackGroundWorkerProject.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\obj\Debug\net8.0\BackGroundWorkerProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\obj\Debug\net8.0\BackGroundWorkerProject.dll
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\obj\Debug\net8.0\refint\BackGroundWorkerProject.dll
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\obj\Debug\net8.0\BackGroundWorkerProject.pdb
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\obj\Debug\net8.0\BackGroundWorkerProject.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Theme2\BackGroundWorkerProject\obj\Debug\net8.0\ref\BackGroundWorkerProject.dll

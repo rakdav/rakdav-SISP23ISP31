@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Theme2\Theme2\bin\Debug\net8.0\Theme2.exe
+C:\Users\Andrey\source\repos\Theme2\Theme2\bin\Debug\net8.0\Theme2.deps.json
+C:\Users\Andrey\source\repos\Theme2\Theme2\bin\Debug\net8.0\Theme2.runtimeconfig.json
+C:\Users\Andrey\source\repos\Theme2\Theme2\bin\Debug\net8.0\Theme2.dll
+C:\Users\Andrey\source\repos\Theme2\Theme2\bin\Debug\net8.0\Theme2.pdb
+C:\Users\Andrey\source\repos\Theme2\Theme2\obj\Debug\net8.0\Theme2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Theme2\Theme2\obj\Debug\net8.0\Theme2.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Theme2\Theme2\obj\Debug\net8.0\Theme2.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Theme2\Theme2\obj\Debug\net8.0\Theme2.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Theme2\Theme2\obj\Debug\net8.0\Theme2.dll
+C:\Users\Andrey\source\repos\Theme2\Theme2\obj\Debug\net8.0\refint\Theme2.dll
+C:\Users\Andrey\source\repos\Theme2\Theme2\obj\Debug\net8.0\Theme2.pdb
+C:\Users\Andrey\source\repos\Theme2\Theme2\obj\Debug\net8.0\Theme2.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Theme2\Theme2\obj\Debug\net8.0\ref\Theme2.dll

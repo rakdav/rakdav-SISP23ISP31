@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Theme2\lockOperator\bin\Debug\net8.0\lockOperator.exe
+C:\Users\Andrey\source\repos\Theme2\lockOperator\bin\Debug\net8.0\lockOperator.deps.json
+C:\Users\Andrey\source\repos\Theme2\lockOperator\bin\Debug\net8.0\lockOperator.runtimeconfig.json
+C:\Users\Andrey\source\repos\Theme2\lockOperator\bin\Debug\net8.0\lockOperator.dll
+C:\Users\Andrey\source\repos\Theme2\lockOperator\bin\Debug\net8.0\lockOperator.pdb
+C:\Users\Andrey\source\repos\Theme2\lockOperator\obj\Debug\net8.0\lockOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Theme2\lockOperator\obj\Debug\net8.0\lockOperator.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Theme2\lockOperator\obj\Debug\net8.0\lockOperator.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Theme2\lockOperator\obj\Debug\net8.0\lockOperator.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Theme2\lockOperator\obj\Debug\net8.0\lockOperator.dll
+C:\Users\Andrey\source\repos\Theme2\lockOperator\obj\Debug\net8.0\refint\lockOperator.dll
+C:\Users\Andrey\source\repos\Theme2\lockOperator\obj\Debug\net8.0\lockOperator.pdb
+C:\Users\Andrey\source\repos\Theme2\lockOperator\obj\Debug\net8.0\lockOperator.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Theme2\lockOperator\obj\Debug\net8.0\ref\lockOperator.dll

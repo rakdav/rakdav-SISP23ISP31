@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\bin\Debug\net8.0\SemaphoreProject.exe
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\bin\Debug\net8.0\SemaphoreProject.deps.json
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\bin\Debug\net8.0\SemaphoreProject.runtimeconfig.json
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\bin\Debug\net8.0\SemaphoreProject.dll
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\bin\Debug\net8.0\SemaphoreProject.pdb
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\obj\Debug\net8.0\SemaphoreProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\obj\Debug\net8.0\SemaphoreProject.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\obj\Debug\net8.0\SemaphoreProject.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\obj\Debug\net8.0\SemaphoreProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\obj\Debug\net8.0\SemaphoreProject.dll
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\obj\Debug\net8.0\refint\SemaphoreProject.dll
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\obj\Debug\net8.0\SemaphoreProject.pdb
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\obj\Debug\net8.0\SemaphoreProject.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Theme2\SemaphoreProject\obj\Debug\net8.0\ref\SemaphoreProject.dll

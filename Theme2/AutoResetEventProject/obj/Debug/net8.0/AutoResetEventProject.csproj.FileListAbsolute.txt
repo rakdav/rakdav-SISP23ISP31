@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\bin\Debug\net8.0\AutoResetEventProject.exe
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\bin\Debug\net8.0\AutoResetEventProject.deps.json
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\bin\Debug\net8.0\AutoResetEventProject.runtimeconfig.json
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\bin\Debug\net8.0\AutoResetEventProject.dll
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\bin\Debug\net8.0\AutoResetEventProject.pdb
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\obj\Debug\net8.0\AutoResetEventProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\obj\Debug\net8.0\AutoResetEventProject.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\obj\Debug\net8.0\AutoResetEventProject.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\obj\Debug\net8.0\AutoResetEventProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\obj\Debug\net8.0\AutoResetEventProject.dll
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\obj\Debug\net8.0\refint\AutoResetEventProject.dll
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\obj\Debug\net8.0\AutoResetEventProject.pdb
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\obj\Debug\net8.0\AutoResetEventProject.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Theme2\AutoResetEventProject\obj\Debug\net8.0\ref\AutoResetEventProject.dll

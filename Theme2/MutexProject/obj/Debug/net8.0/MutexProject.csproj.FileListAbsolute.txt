@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Theme2\MutexProject\bin\Debug\net8.0\MutexProject.exe
+C:\Users\Andrey\source\repos\Theme2\MutexProject\bin\Debug\net8.0\MutexProject.deps.json
+C:\Users\Andrey\source\repos\Theme2\MutexProject\bin\Debug\net8.0\MutexProject.runtimeconfig.json
+C:\Users\Andrey\source\repos\Theme2\MutexProject\bin\Debug\net8.0\MutexProject.dll
+C:\Users\Andrey\source\repos\Theme2\MutexProject\bin\Debug\net8.0\MutexProject.pdb
+C:\Users\Andrey\source\repos\Theme2\MutexProject\obj\Debug\net8.0\MutexProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Theme2\MutexProject\obj\Debug\net8.0\MutexProject.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Theme2\MutexProject\obj\Debug\net8.0\MutexProject.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Theme2\MutexProject\obj\Debug\net8.0\MutexProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Theme2\MutexProject\obj\Debug\net8.0\MutexProject.dll
+C:\Users\Andrey\source\repos\Theme2\MutexProject\obj\Debug\net8.0\refint\MutexProject.dll
+C:\Users\Andrey\source\repos\Theme2\MutexProject\obj\Debug\net8.0\MutexProject.pdb
+C:\Users\Andrey\source\repos\Theme2\MutexProject\obj\Debug\net8.0\MutexProject.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Theme2\MutexProject\obj\Debug\net8.0\ref\MutexProject.dll

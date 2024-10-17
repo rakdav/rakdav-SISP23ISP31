@@ -1,0 +1,14 @@
+C:\Users\Andrey\source\repos\Theme2\Tasks\bin\Debug\net8.0\Tasks.exe
+C:\Users\Andrey\source\repos\Theme2\Tasks\bin\Debug\net8.0\Tasks.deps.json
+C:\Users\Andrey\source\repos\Theme2\Tasks\bin\Debug\net8.0\Tasks.runtimeconfig.json
+C:\Users\Andrey\source\repos\Theme2\Tasks\bin\Debug\net8.0\Tasks.dll
+C:\Users\Andrey\source\repos\Theme2\Tasks\bin\Debug\net8.0\Tasks.pdb
+C:\Users\Andrey\source\repos\Theme2\Tasks\obj\Debug\net8.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\Theme2\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\Theme2\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\Theme2\Tasks\obj\Debug\net8.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Theme2\Tasks\obj\Debug\net8.0\Tasks.dll
+C:\Users\Andrey\source\repos\Theme2\Tasks\obj\Debug\net8.0\refint\Tasks.dll
+C:\Users\Andrey\source\repos\Theme2\Tasks\obj\Debug\net8.0\Tasks.pdb
+C:\Users\Andrey\source\repos\Theme2\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\Theme2\Tasks\obj\Debug\net8.0\ref\Tasks.dll
